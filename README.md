@@ -1,10 +1,6 @@
 # Search Keywords and Download PDF from IDOT website
 
-<<<<<<< HEAD
 Automatically search IDOT plan documents and download relevant PDFs. 
-=======
-Automatically search IDOT plan documents and download relevant PDFs.  
->>>>>>> 146ee73e1a930da6efdcbc8808fdb83b1372eeba
 
 ## Dependencies
 ```
