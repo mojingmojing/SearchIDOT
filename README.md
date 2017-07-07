@@ -21,39 +21,17 @@ What I would do is
 - download pdf files for projects that contain the given pay item keyword
 
 The purpose of this projct is to improve productivity at work. 
+
 I spent four hours to go through the excel files and download pdfs for three release dates. During this four hours, I was performing the same repetitive steps. 
+
 Since this same work will very likely be perform again in the near future, a program is written in this project to build a useful tool to search on IDOT website and significantly saves time at work.
 
 To run this program, please follow the following steps:
 
-⋅⋅1. First install Python library "xlrd" and "beautifulsoup4", codes are given at the beginning of this file⋅⋅
-
-⋅⋅2. Go to IDOT website and download the list of pay item excel files from "CBIDS" within the release date that you are interested⋅⋅
-
-⋅⋅3. Unzip the excel files and put the list of excel files in an "excel_files" folder⋅⋅
-
-⋅⋅4. Open file run.sh⋅⋅
-
-⋅⋅5. Change "key_word" into pay item number you are looking for⋅⋅
-
-⋅⋅6. Change "date_release" into release date(mmddyy) from which you've downloaded the list of CBDIS excel files⋅⋅
-
-⋅⋅7. Change "pdf_dir" into the name of folder that you want the downloaded pdfs to be stored at⋅⋅
-
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
-
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
-
+1. First install Python library "xlrd" and "beautifulsoup4", codes are given at the beginning of this file
+2. Go to IDOT website and download the list of pay item excel files from "CBIDS" within the release date that you are interested⋅⋅
+3. Unzip the excel files and put the list of excel files in an "excel_files" folder
+4. Open file run.sh
+5. Change "key_word" into pay item number you are looking for
+6. Change "date_release" into release date(mmddyy) from which you've downloaded the list of CBDIS excel files
+7. Change "pdf_dir" into the name of folder that you want the downloaded pdfs to be stored at
