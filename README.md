@@ -1,8 +1,6 @@
 # Search Keywords and Download PDF Plans from IDOT website
 
-Automatically search IDOT plan documents and download relevant PDFs. 
-
-- [download](http://www.idot.illinois.gov/home/resources/Archives/transportation-bulletin-archivese) IDOT excel files from here. 
+Automatically search IDOT plan documents and download relevant PDFs.  
 
 ## Dependencies
 ```
