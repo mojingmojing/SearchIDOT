@@ -29,7 +29,7 @@ Since this same work will very likely be perform again in the near future, a pro
 To run this program, please follow the following steps:
 
 1. First install Python library "xlrd" and "beautifulsoup4", codes are given at the beginning of this file
-2. Go to IDOT website and download the list of pay item excel files from "CBIDS" within the release date that you are interested⋅⋅
+2. Go to IDOT website and within the release date you are interested download pay item excel files from "CBIDS" 
 3. Unzip the excel files and put the list of excel files in an "excel_files" folder
 4. Open file run.sh
 5. Change "key_word" into pay item number you are looking for
