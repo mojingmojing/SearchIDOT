@@ -20,9 +20,12 @@ What I would do is
 - go back to IDOT website and go into "Plans and Proposals"
 - download pdf files for projects that contain the given pay item keyword
 
-The purpose of this projct is to improve productivity at work. I spent four hours to go through the excel files and download pdfs for three release dates. During this four hours, I was performing the same repetitive steps. Since this same work will very likely be perform again in the near future, a program is written in this project to build a useful tool to search on IDOT website and significantly saves time at work.
+The purpose of this projct is to improve productivity at work. 
+I spent four hours to go through the excel files and download pdfs for three release dates. During this four hours, I was performing the same repetitive steps. 
+Since this same work will very likely be perform again in the near future, a program is written in this project to build a useful tool to search on IDOT website and significantly saves time at work.
 
 To run this program, please follow the following steps:
+
 ⋅⋅⋅1. First install Python library "xlrd" and "beautifulsoup4", codes are given at the beginning of this file⋅⋅
 ⋅⋅⋅2. Go to IDOT website and download the list of pay item excel files from "CBIDS" within the release date that you are interested⋅⋅
 ⋅⋅⋅3. Unzip the excel files and put the list of excel files in an "excel_files" folder⋅⋅
