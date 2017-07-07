@@ -1,4 +1,4 @@
-# Search Keywords and Download PDF from IDOT website
+# Search Keywords and Download PDF from IDOT Website
 
 Automatically search IDOT plan documents and download relevant PDFs. 
 
