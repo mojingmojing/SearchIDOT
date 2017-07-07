@@ -2,8 +2,6 @@
 
 Automatically search IDOT plan documents and download relevant PDFs. 
 
-- [download](http://www.idot.illinois.gov/home/resources/Archives/transportation-bulletin-archivese) IDOT excel files from here. 
-
 ## Dependencies
 ```
 pip install beautifulsoup4
