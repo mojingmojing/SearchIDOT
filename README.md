@@ -1,5 +1,9 @@
 # Search Keywords and Download PDF Plans from IDOT website
 
+Automatically search IDOT plan documents and download relevant PDFs. 
+
+- [download](http://www.idot.illinois.gov/home/resources/Archives/transportation-bulletin-archivese) IDOT excel files from here. 
+
 ## Dependencies
 ```
 pip install beautifulsoup4
@@ -25,4 +29,6 @@ To run this program, please follow the following steps:
 ..5. Change "key_word" into pay item number you are looking for
 ..6. Change "date_release" into release date(mmddyy) from which you've downloaded the list of CBDIS excel files
 ..7. Change "pdf_dir" into the name of folder that you want the downloaded pdfs to be stored at
+
+
 
