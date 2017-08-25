@@ -4,11 +4,6 @@
 
 Automatically search IDOT plan documents and download relevant PDFs. 
 
-## Dependencies
-```
-pip install beautifulsoup4
-pip install xlrd
-```
 ## Why this project was built
 As a bridge engineer, I was asked to go to find similar past projects posted online and download plans and use for reference at work. 
 
@@ -25,6 +20,12 @@ The purpose of this projct is to improve productivity at work.
 I spent four hours to go through the excel files and download pdfs for three release dates. During this four hours, I was performing the same repetitive steps. 
 
 Since this same work will very likely be perform again in the near future, a program is written in this project to build a useful tool to search on IDOT website and significantly saves time at work.
+
+## Dependencies
+```
+pip install beautifulsoup4
+pip install xlrd
+```
 
 ## How to run programs in this project
 To use the programs from this project, please follow the following steps:
