@@ -1,3 +1,5 @@
+By [Yijing Xiao](https://yijingxiao.github.io)
+
 # Search Keywords and Download PDF from IDOT Website
 
 Automatically search IDOT plan documents and download relevant PDFs. 
@@ -33,3 +35,5 @@ To run this program, please follow the following steps:
 5. Change "key_word" into pay item number you are looking for
 6. Change "date_release" into release date(mmddyy) from which you've downloaded the list of CBDIS excel files
 7. Change "pdf_dir" into the name of folder that you want the downloaded pdfs to be stored at
+
+Back to [Home Page](https://yijingxiao.github.io/)
