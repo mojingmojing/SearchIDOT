@@ -1,4 +1,4 @@
-By [Yijing Xiao](https://yijingxiao.github.io)
+[Home Page](https://yijingxiao.github.io)
 
 # Search Keywords and Download PDF from IDOT Website
 
