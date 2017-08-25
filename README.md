@@ -9,10 +9,10 @@ Automatically search IDOT plan documents and download relevant PDFs.
 pip install beautifulsoup4
 pip install xlrd
 ```
+## Why this project was built
+As a bridge engineer, I was asked to go to find similar past projects posted online and download plans and use for reference at work. 
 
-As a structural engineer, I was asked to go to find similar past projects posted online and download plans and use for reference at work. 
-
-What I would do is
+What I would do in the past was
 
 - go to IDOT[(Illinois Department of Transportation)](http://www.idot.illinois.gov/home/resources/Archives/transportation-bulletin-archives)website 
 - download a list of CBIDS excel files from a certain release date
@@ -26,6 +26,7 @@ I spent four hours to go through the excel files and download pdfs for three rel
 
 Since this same work will very likely be perform again in the near future, a program is written in this project to build a useful tool to search on IDOT website and significantly saves time at work.
 
+## How to run programs in this project
 To run this program, please follow the following steps:
 
 1. First install Python library "xlrd" and "beautifulsoup4", codes are given at the beginning of this file
