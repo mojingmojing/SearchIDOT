@@ -27,7 +27,7 @@ I spent four hours to go through the excel files and download pdfs for three rel
 Since this same work will very likely be perform again in the near future, a program is written in this project to build a useful tool to search on IDOT website and significantly saves time at work.
 
 ## How to run programs in this project
-To run this program, please follow the following steps:
+To use the programs from this project, please follow the following steps:
 
 1. First install Python library "xlrd" and "beautifulsoup4", codes are given at the beginning of this file
 2. Go to IDOT website and within the release date you are interested download pay item excel files from "CBIDS" 
