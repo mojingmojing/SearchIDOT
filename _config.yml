@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+plugins:
+  - jemoji
+title: Search IDOT
+description: This project searches a given keyword within list of IDOT payitem excel files and download list of plans from IDOT public library for projects contain the keyword
